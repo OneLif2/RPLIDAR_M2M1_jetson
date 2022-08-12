@@ -1,6 +1,7 @@
 # RPLIDAR_M2M1_jetson
 #RPLIDAR M2M1 #Jetson Nano #Pybind11
 
+## Features
 
 ## Manual install
 Run the following commands in the Linux terminal.
