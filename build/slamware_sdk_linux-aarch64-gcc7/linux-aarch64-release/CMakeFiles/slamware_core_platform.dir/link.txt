@@ -1,0 +1,2 @@
+/usr/bin/ar qc libslamware_core_platform.a  
+/usr/bin/ranlib libslamware_core_platform.a
