@@ -24,5 +24,5 @@ sleep 1
 mkdir build
 
 echo -e "====== Done !! ======"
-echo -e "====== cd .. ======"
+echo -e "====== then cd .. ======"
 echo -e "====== then run ./cmake.sh ======"
