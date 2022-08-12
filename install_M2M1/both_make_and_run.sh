@@ -1,2 +1,2 @@
 ./make.sh
-./run.sh
+./run_mapdemo.sh
