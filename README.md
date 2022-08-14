@@ -3,7 +3,7 @@
 
 ## Features
 
-## Manual install
+## Manual reinstall
 Run the following commands in the Linux terminal.
 
 ```
